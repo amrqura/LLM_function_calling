@@ -1,0 +1,14 @@
+fastapi==0.110.1
+uvicorn==0.29.0
+pydantic==2.7.1
+sqlite-utils==3.36
+uvicorn==0.29.0
+huggingface_hub==0.31.2
+numpy==1.26.4
+safetensors==0.5.3
+langchain==0.2.17
+accelerate==1.7.0
+#openai==1.79.0
+openai>=1.0.0
+pytest==8.3.5
+httpx==0.28.1

@@ -1,6 +1,6 @@
 # LLM_function_calling
 
-## Ooen AI key
+## Open AI key
 You will need to create a new open API key from [here](https://platform.openai.com/api-keys) 
 ## Create virtualenv end install libraries
 create a python virtual envirnment using the following commands

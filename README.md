@@ -58,3 +58,8 @@ curl -X POST "http://127.0.0.1:8888/chat" \
      -d '{"message": "Can you track order 1 for me?"}'
 
 ```
+# Presentation
+
+Link:
+
+https://docs.google.com/presentation/d/1e36gO2b0rBFElk6o5bgPPMD4eGUez9zo3LU8F3BcU6o/edit?slide=id.g371dc52a01a_0_0#slide=id.g371dc52a01a_0_0
